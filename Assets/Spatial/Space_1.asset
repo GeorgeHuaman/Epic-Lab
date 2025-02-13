@@ -13,11 +13,12 @@ MonoBehaviour:
   m_Name: Space_1
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
+  sku: vlp3ph33695uqjpikk3epzcd
   packageName: Laboratorio EpicCentral
   thumbnail: {fileID: 2800000, guid: 650a02db8cb45f0468a984d8d161e911, type: 3}
-  savedProjectSettings: {fileID: 0}
-  worldID: 
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: lp7i3f0yya4w7ociijla3
   scene: {fileID: 102900000, guid: 818ffc7cea1e69941be9d9c8032c1716, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
